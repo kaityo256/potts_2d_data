@@ -2,9 +2,9 @@
 
 ## Folders
 
-* [Q=2](Q2/README.md)
-* [Q=3](Q3/README.md)
-* [Q=4](Q4/README.md)
+* [Q=2](Q2)
+* [Q=3](Q3)
+* [Q=4](Q4)
 
 ## Extentions of files
 

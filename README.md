@@ -17,9 +17,9 @@ We appreciate your citing the reference when you publish the results using our d
 * LICENSE
 * README.md
 * [data](data/README.md)
-    * [Q2](data/Q2/README.md)
-    * [Q3](data/Q3/README.md)
-    * [Q4](data/Q4/README.md)
+    * [Q2](data/Q2)
+    * [Q3](data/Q3)
+    * [Q4](data/Q4)
 
 See `README.md` in each folder for more information on the data.
 
